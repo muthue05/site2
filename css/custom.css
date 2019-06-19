@@ -1,0 +1,52 @@
+@charset "utf-8";
+.menu {     
+  padding: 15px;
+  margin: 0px;
+  color: #FFF;
+  text-align: center;
+  background-color: #203349;    
+  position: fixed;
+    z-index: 999;
+  }
+
+.left-part {     
+  padding: 15px;
+  margin: 0px;
+  color: #FFF;
+  text-align: center;
+  background-color: red;  
+     top: 50px;
+  }
+
+.content-part {     
+  padding: 15px;
+  margin: 0px;
+  color: #FFF;
+  text-align: center;
+  background-color: gray;   
+    top: 50px;
+  }
+
+.right-part {     
+  padding: 15px;
+  margin: 0px;
+  color: #FFF;
+  text-align: center;
+  background-color: green;
+     top: 50px;
+    margin-bottom: 50px;
+  }
+
+.footer {     
+  padding: 15px;
+  margin: 0px;
+  color: #FFF;
+  text-align: center;
+  background-color: #203349;    
+    position: fixed;
+    z-index: 999;
+    bottom:0;
+    
+  }
+
+
